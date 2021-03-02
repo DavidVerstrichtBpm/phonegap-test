@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.endare.cordovazebrascanner" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>cordova-zebra-scanner</name>
+    <js-module name="cordovaZebraScanner" src="www/cordova-zebra-scanner.js">
+        <clobbers target="cordova.plugins.cordovaZebraScanner"/>
+    </js-module>
+    <platform name="android">
+        <config-file parent="/*" target="res/xml/config.xml">
+            <feature name="cordovaZebraScanner">
+                <param name="android-package" value="com.endare.cordovazebrascanner.CordovaZebraScanner"/>
+                <param name="onload" value="true" />
+            </feature>
+        </config-file>
+        <config-file parent="/*" target="AndroidManifest.xml"></config-file>
+        <source-file src="src/android/CordovaZebraScanner.java"
+                     target-dir="src/com/endare/cordovazebrascanner"/>
+    </platform>
+</plugin>

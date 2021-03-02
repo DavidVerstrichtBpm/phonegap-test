@@ -1,0 +1,63 @@
+{
+  "_from": "git+https://github.com/mendix/NativePageTransitions.git",
+  "_id": "com.telerik.plugins.nativepagetransitions@0.6.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/com.telerik.plugins.nativepagetransitions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mendix/NativePageTransitions.git",
+    "rawSpec": "https://github.com/mendix/NativePageTransitions.git",
+    "saveSpec": "git+https://github.com/mendix/NativePageTransitions.git",
+    "fetchSpec": "https://github.com/mendix/NativePageTransitions.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/mendix/NativePageTransitions.git#90ccc899489dcde6d3bacb8e37d0802ff27484e6",
+  "_spec": "https://github.com/mendix/NativePageTransitions.git",
+  "_where": "C:\\Users\\david\\OneDrive\\Documenten\\temp\\phonegap-test\\build",
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "https://github.com/EddyVerbruggen"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Native Page Transitions",
+  "deprecated": false,
+  "description": "Slide out the current page to reveal the next one. By a native transitions.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "issue": "https://github.com/Telerik-Verified-Plugins/WKWebView/issues",
+  "keywords": [
+    "Native transitions",
+    "Native page transitions",
+    "Slide",
+    "Flip",
+    "Drawer",
+    "Menu",
+    "Curl",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "com.telerik.plugins.nativepagetransitions",
+  "platforms": [
+    "ios",
+    "android",
+    "wp8",
+    "windows"
+  ],
+  "repo": "https://github.com/Telerik-Verified-Plugins/WKWebView.git",
+  "version": "0.6.5"
+}

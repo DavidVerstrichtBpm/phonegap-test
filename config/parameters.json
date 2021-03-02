@@ -1,0 +1,26 @@
+{
+  "url" : "https://zebrascannerwidget100-sandbox.mxapps.io",
+  "identifier" : "eu.mendify.zebrascanner",
+  "version" : "0.0.7",
+  "name" : "ZebraScannerWidget",
+  "description" : null,
+  "iosEnabled" : false,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : true,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : true,
+    "microphone" : true,
+    "geoLocation" : false,
+    "push" : false
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-cookieemperor": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+      "OKHTTP_VERSION": "3.+",
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-calendar": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "eu.mendify.zebrascanner"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "EventKit.framework": 1,
+    "EventKitUI.framework": 1,
+    "ImageIO.framework": 1,
+    "CoreLocation.framework": 3,
+    "AVFoundation.framework": 1,
+    "AddressBook.framework": 1,
+    "AddressBookUI.framework": 1,
+    "CoreMotion.framework": 1,
+    "AudioToolbox.framework": 2,
+    "SystemConfiguration.framework": 2,
+    "CoreTelephony.framework": 1,
+    "Security.framework": 1,
+    "Social.framework": 1,
+    "MessageUI.framework": 1,
+    "libz.dylib": 1,
+    "MapKit.framework": 1
+}

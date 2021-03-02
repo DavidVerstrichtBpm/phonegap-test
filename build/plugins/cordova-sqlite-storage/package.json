@@ -1,0 +1,66 @@
+{
+  "_from": "@mendix/cordova-sqlite-storage@2.0.4-mx.1.1.0",
+  "_id": "@mendix/cordova-sqlite-storage@2.0.4-mx.1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5NI9on3L6g0BnjbD45PcoWFJ9mXqv5XKnT0F+/SiJWRcZZTMmgPF9Dm1NcaFJv06wJExOnu3MvRbx1DwQfO7ng==",
+  "_location": "/@mendix/cordova-sqlite-storage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@mendix/cordova-sqlite-storage@2.0.4-mx.1.1.0",
+    "name": "@mendix/cordova-sqlite-storage",
+    "escapedName": "@mendix%2fcordova-sqlite-storage",
+    "scope": "@mendix",
+    "rawSpec": "2.0.4-mx.1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.4-mx.1.1.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@mendix/cordova-sqlite-storage/-/cordova-sqlite-storage-2.0.4-mx.1.1.0.tgz",
+  "_shasum": "e96aea07737f4ec6e96e7af46f1365454ffc6400",
+  "_spec": "@mendix/cordova-sqlite-storage@2.0.4-mx.1.1.0",
+  "_where": "C:\\Users\\david\\OneDrive\\Documenten\\temp\\phonegap-test\\build",
+  "author": {
+    "name": "various"
+  },
+  "bugs": {
+    "url": "https://github.com/mendix/Cordova-sqlite-storage-pgb/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-sqlite-storage-pgb",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Native interface to SQLite for PhoneGap/Cordova",
+  "devDependencies": {
+    "shelljs": "^0.7.4"
+  },
+  "homepage": "https://github.com/mendix/Cordova-sqlite-storage-pgb",
+  "keywords": [
+    "sqlite",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "phonegap-build"
+  ],
+  "license": "MIT",
+  "name": "@mendix/cordova-sqlite-storage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendix/Cordova-sqlite-storage-pgb.git"
+  },
+  "scripts": {
+    "start": "node scripts/prepareSpec.js"
+  },
+  "version": "2.0.4-mx.1.1.0"
+}
